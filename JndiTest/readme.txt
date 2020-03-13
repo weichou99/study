@@ -1,0 +1,3 @@
+用來測試透過JNDI從server上取得datasource。
+weblogic。
+tomcat。
