@@ -1,0 +1,3 @@
+maven-assembly-plugin
+
+最初是富邦官網投保要把maven的專案，改成一般eclipse的專案用的。
