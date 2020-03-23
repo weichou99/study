@@ -1,0 +1,2 @@
+用來檢查maven的repository裡的jar是不是正確。
+利用md5來檢查。
